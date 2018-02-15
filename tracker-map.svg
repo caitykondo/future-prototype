@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="736" viewBox="0 0 132 736">
+  <defs>
+    <linearGradient id="tracker-map-a" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <circle id="tracker-map-b" cx="64" cy="64" r="64"/>
+    <linearGradient id="tracker-map-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="64" cy="94" r="3" fill="#FFF"/>
+    <polygon fill="url(#tracker-map-a)" points="28 25 99.569 25 63.784 93.284" opacity=".2"/>
+    <g transform="translate(8)">
+      <mask id="tracker-map-c" fill="#fff">
+        <use xlink:href="#tracker-map-b"/>
+      </mask>
+      <circle cx="114" cy="5" r="37" fill="#646664" mask="url(#tracker-map-c)" opacity=".5"/>
+      <circle cx="24.5" cy="34.5" r="3.5" fill="#646664" mask="url(#tracker-map-c)" opacity=".8"/>
+      <circle cx="17.5" cy="31.5" r="5.5" fill="#646664" mask="url(#tracker-map-c)" opacity=".7"/>
+      <circle cx="11.5" cy="36.5" r="5.5" fill="#646664" mask="url(#tracker-map-c)" opacity=".5"/>
+      <circle cx="20.5" cy="27.5" r="3.5" fill="#646664" mask="url(#tracker-map-c)" opacity=".76"/>
+    </g>
+    <g opacity=".8" transform="translate(14 144)">
+      <text fill="#FFF" font-family="AnonymousPro, Anonymous Pro" font-size="18">
+        <tspan x="32" y="19">0000000</tspan>
+      </text>
+      <g transform="translate(0 1)">
+        <path stroke="#FFF" stroke-width="1.818" d="M0.909090909,6.0196215 L0.909090909,17.9803785 L10,22.9633026 L19.0909091,17.9803785 L19.0909091,6.0196215 L10,1.03669745 L0.909090909,6.0196215 Z"/>
+        <polygon fill="#FFF" points="2.694 7.558 2.694 16.442 10 20.801 10 3.199"/>
+      </g>
+    </g>
+    <circle cx="64" cy="64" r="63.5" stroke="#FFF" opacity=".5"/>
+    <g transform="rotate(-90 396.5 340)">
+      <g transform="rotate(-90 7.75 7.75)">
+        <rect width="1" height="155" x="7" fill="url(#tracker-map-d)" transform="matrix(1 0 0 -1 0 155)"/>
+        <rect width="1" height="150" x="7" y="340" fill="#D8D8D8"/>
+        <rect width="1" height="75" x="7" y="168" fill="#D8D8D8"/>
+        <rect width="1" height="75" x="7" y="254" fill="#D8D8D8"/>
+        <polygon fill="#FFF" points="0 41 8 45 0 49"/>
+        <polygon fill="#FFF" points="15 41 7 45 15 49"/>
+      </g>
+      <rect width="5" height="5" x="159.036" y="5.536" fill="#D8D8D8" transform="rotate(-45 161.536 8.036)"/>
+      <rect width="5" height="5" x="246.036" y="5.536" fill="#D8D8D8" transform="rotate(-45 248.536 8.036)"/>
+      <rect width="5" height="5" x="332.036" y="5.536" fill="#D8D8D8" transform="rotate(-45 334.536 8.036)"/>
+      <rect width="5" height="5" x="492.036" y="5.536" fill="#D8D8D8" transform="rotate(-45 494.536 8.036)"/>
+    </g>
+    <rect width="107" height="13" x="11.5" y="187.5" stroke="#D8D8D8" rx="2"/>
+    <rect width="12" height="8" x="14" y="190" fill="#D8D8D8"/>
+    <rect width="12" height="8" x="28" y="190" fill="#D8D8D8"/>
+    <rect width="12" height="8" x="42" y="190" fill="#D8D8D8"/>
+    <rect width="12" height="8" x="56" y="190" fill="#D8D8D8"/>
+    <rect width="12" height="8" x="70" y="190" fill="#D8D8D8"/>
+    <rect width="12" height="8" x="84" y="190" fill="#D8D8D8"/>
+  </g>
+</svg>
