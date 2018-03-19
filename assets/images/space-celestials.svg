@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="256" viewBox="0 0 130 256">
+  <defs>
+    <rect id="space-celestials-a" width="3" height="2" x="74.904" y="67.337"/>
+    <rect id="space-celestials-b" width="3" height="2" x="58.904" y="51.337"/>
+    <rect id="space-celestials-c" width="3" height="2" x="75.268" y="249.768"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="109.5" cy="194.5" r="20.5" fill="#646664" opacity=".5"/>
+    <g opacity=".5" transform="translate(17 134)">
+      <ellipse cx="16.5" cy="15" stroke="#646664" stroke-width="2" rx="11.5" ry="10" transform="rotate(-22 16.5 15)"/>
+      <ellipse cx="21.806" cy="12.403" fill="#646664" rx="10.241" ry="3.5" transform="rotate(-22 21.806 12.403)"/>
+    </g>
+    <g fill="#646664" transform="translate(89 134)">
+      <circle cx="18.5" cy="10.5" r="3.5" opacity=".8"/>
+      <circle cx="11.5" cy="7.5" r="5.5" opacity=".7"/>
+      <circle cx="5.5" cy="12.5" r="5.5" opacity=".5"/>
+      <circle cx="14.5" cy="3.5" r="3.5" opacity=".76"/>
+    </g>
+    <g opacity=".76">
+      <polygon fill="#646664" points="55.532 47.19 55.532 56.19 44.532 56.19" transform="rotate(149 50.032 51.69)"/>
+      <polygon fill="#646664" points="101.586 33.341 101.586 42.341 90.586 42.341" transform="rotate(35 96.086 37.84)"/>
+      <polygon fill="#646664" points="66 65 72 70 76 62 68 62"/>
+      <polygon fill="#646664" points="92 57 98 62 102 54 94 54"/>
+      <polygon fill="#646664" points="79 50 85 55 89 47 81 47"/>
+      <polygon fill="#646664" points="80.848 61.781 85.048 65.531 87.848 59.531 82.248 59.531" transform="rotate(-60 84.348 62.531)"/>
+      <rect width="3" height="2" x="52.288" y="35.739" fill="#646664" transform="rotate(-41 53.788 36.739)"/>
+      <rect width="3" height="2" x="105.288" y="48.739" fill="#646664" transform="rotate(-41 106.788 49.739)"/>
+      <rect width="3" height="2" x="54.288" y="61.739" fill="#646664" transform="rotate(-41 55.788 62.739)"/>
+      <rect width="3" height="2" x="76.302" y="32.643" fill="#646664" transform="rotate(32 77.802 33.643)"/>
+      <rect width="3" height="2" x="85.302" y="70.643" fill="#646664" transform="rotate(32 86.802 71.643)"/>
+      <polygon fill="#646664" points="29.207 43.14 29.207 52.14 18.207 52.14" transform="scale(1 -1) rotate(45 138.721 0)"/>
+      <polygon fill="#646664" points="91.207 29.14 91.207 38.14 80.207 38.14" transform="scale(1 -1) rotate(45 166.922 0)"/>
+      <polygon fill="#646664" points="56 60.933 62 65.933 66 57.933 58 57.933" transform="scale(1 -1) rotate(45 210.52 0)"/>
+      <polygon fill="#646664" points="97 53.933 103 58.933 107 50.933 99 50.933" transform="scale(1 -1) rotate(45 234.62 0)"/>
+      <polygon fill="#646664" points="54 44.933 60 49.933 64 41.933 56 41.933" transform="scale(1 -1) rotate(45 169.893 0)"/>
+      <polygon fill="#646664" points="70.732 58.416 74.932 62.166 77.732 56.166 72.132 56.166" transform="scale(1 -1) rotate(45 217.07 0)"/>
+      <rect width="3" height="2" x="41.904" y="32.337" fill="#646664" transform="scale(1 -1) rotate(45 123.887 0)"/>
+      <rect width="3" height="2" x="94.904" y="45.337" fill="#646664" transform="scale(1 -1) rotate(45 208.272 0)"/>
+      <rect width="3" height="2" x="43.904" y="58.337" fill="#646664" transform="scale(1 -1) rotate(45 188.656 0)"/>
+      <rect width="3" height="2" x="65.904" y="29.337" fill="#646664" transform="scale(1 -1) rotate(45 140.644 0)"/>
+      <polygon fill="#646664" points="50.788 34.446 50.788 39.446 43.788 39.446" transform="rotate(149 47.288 36.946)"/>
+      <polygon fill="#646664" points="75.788 61.446 75.788 66.446 68.788 66.446" transform="rotate(149 72.288 63.946)"/>
+      <polygon fill="#646664" points="110.788 42.446 110.788 47.446 103.788 47.446" transform="rotate(149 107.288 44.946)"/>
+      <polygon fill="#646664" points="39.045 62.517 39.045 67.517 32.045 67.517" transform="rotate(149 35.545 65.017)"/>
+      <polygon fill="#646664" points="56 34.875 59.6 38 62 33 57.2 33"/>
+      <polygon fill="#646664" points="81 61.875 84.6 65 87 60 82.2 60"/>
+      <polygon fill="#646664" points="116 42.875 119.6 46 122 41 117.2 41"/>
+      <polygon fill="#646664" points="44.257 62.946 47.857 66.071 50.257 61.071 45.457 61.071"/>
+      <rect width="2" height="1" x="49.083" y="26.533" fill="#646664" transform="rotate(-41 50.083 27.033)"/>
+      <rect width="2" height="1" x="74.083" y="54.533" fill="#646664" transform="rotate(-41 75.083 55.033)"/>
+      <rect width="2" height="1" x="109.083" y="35.533" fill="#646664" transform="rotate(-41 110.083 36.033)"/>
+      <rect width="2" height="1" x="37.34" y="55.605" fill="#646664" transform="rotate(-41 38.34 56.105)"/>
+      <polygon fill="#646664" points="55.743 22.743 55.743 27.743 48.743 27.743" transform="scale(1 -1) rotate(45 113.184 0)"/>
+      <polygon fill="#646664" points="103.743 50.743 103.743 55.743 96.743 55.743" transform="scale(1 -1) rotate(45 228.782 0)"/>
+      <polygon fill="#646664" points="123.743 30.743 123.743 35.743 116.743 35.743" transform="scale(1 -1) rotate(45 200.497 0)"/>
+      <polygon fill="#646664" points="52 50.814 52 55.814 45 55.814" transform="scale(1 -1) rotate(45 177.212 0)"/>
+      <polygon fill="#646664" points="49.889 33.264 53.489 36.389 55.889 31.389 51.089 31.389" transform="scale(1 -1) rotate(45 134.705 0)"/>
+      <polygon fill="#646664" points="74.889 60.264 78.489 63.389 80.889 58.389 76.089 58.389" transform="scale(1 -1) rotate(45 224.888 0)"/>
+      <polygon fill="#646664" points="109.889 41.264 113.489 44.389 115.889 39.389 111.089 39.389" transform="scale(1 -1) rotate(45 214.018 0)"/>
+      <polygon fill="#646664" points="38.146 61.336 41.746 64.461 44.146 59.461 39.346 59.461" transform="scale(1 -1) rotate(45 190.732 0)"/>
+      <rect width="2" height="1" x="57.061" y="23.561" fill="#646664" transform="scale(1 -1) rotate(45 116.148 0)"/>
+      <rect width="2" height="1" x="82.061" y="51.561" fill="#646664" transform="scale(1 -1) rotate(45 208.746 0)"/>
+      <rect width="2" height="1" x="102.061" y="31.561" fill="#646664" transform="scale(1 -1) rotate(45 180.462 0)"/>
+      <rect width="2" height="1" x="45.318" y="52.632" fill="#646664" transform="scale(1 -1) rotate(45 174.59 0)"/>
+      <g transform="scale(1 -1) rotate(45 241.384 0)">
+        <use fill="#646664" xlink:href="#space-celestials-a"/>
+        <rect width="2" height="1" x="75.404" y="67.837" stroke="#979797"/>
+      </g>
+      <polygon fill="#646664" points="23.532 31.19 23.532 40.19 12.532 40.19" transform="rotate(149 18.032 35.69)"/>
+      <polygon fill="#646664" points="62.586 16.341 62.586 25.341 51.586 25.341" transform="rotate(35 57.086 20.84)"/>
+      <polygon fill="#646664" points="50 49 56 54 60 46 52 46"/>
+      <polygon fill="#646664" points="91 42 97 47 101 39 93 39"/>
+      <polygon fill="#646664" points="48 33 54 38 58 30 50 30"/>
+      <polygon fill="#646664" points="71.848 45.781 76.048 49.531 78.848 43.531 73.248 43.531" transform="rotate(-60 75.348 46.531)"/>
+      <rect width="3" height="2" x="20.288" y="19.739" fill="#646664" transform="rotate(-41 21.788 20.739)"/>
+      <rect width="3" height="2" x="74.288" y="31.739" fill="#646664" transform="rotate(-41 75.788 32.739)"/>
+      <rect width="3" height="2" x="38.288" y="45.739" fill="#646664" transform="rotate(-41 39.788 46.739)"/>
+      <rect width="3" height="2" x="52.302" y="16.643" fill="#646664" transform="rotate(32 53.802 17.643)"/>
+      <rect width="3" height="2" x="69.302" y="54.643" fill="#646664" transform="rotate(32 70.802 55.643)"/>
+      <polygon fill="#646664" points="13.207 27.14 13.207 36.14 2.207 36.14" transform="scale(1 -1) rotate(45 84.094 0)"/>
+      <polygon fill="#646664" points="52.207 12.14 52.207 21.14 41.207 21.14" transform="scale(1 -1) rotate(45 86.88 0)"/>
+      <polygon fill="#646664" points="40 44.933 46 49.933 50 41.933 42 41.933" transform="scale(1 -1) rotate(45 155.893 0)"/>
+      <polygon fill="#646664" points="73 36.933 79 41.933 83 33.933 75 33.933" transform="scale(1 -1) rotate(45 169.58 0)"/>
+      <polygon fill="#646664" points="22 28.933 28 33.933 32 25.933 24 25.933" transform="scale(1 -1) rotate(45 99.265 0)"/>
+      <polygon fill="#646664" points="62.732 17.416 66.932 21.166 69.732 15.166 64.132 15.166" transform="scale(1 -1) rotate(45 110.088 0)"/>
+      <rect width="3" height="2" x="9.904" y="16.337" fill="#646664" transform="scale(1 -1) rotate(45 53.26 0)"/>
+      <rect width="3" height="2" x="63.904" y="28.337" fill="#646664" transform="scale(1 -1) rotate(45 136.23 0)"/>
+      <rect width="3" height="2" x="11.904" y="42.337" fill="#646664" transform="scale(1 -1) rotate(45 118.029 0)"/>
+      <rect width="3" height="2" x="41.904" y="13.337" fill="#646664" transform="scale(1 -1) rotate(45 78.017 0)"/>
+      <polygon fill="#646664" points="18.788 18.446 18.788 23.446 11.788 23.446" transform="rotate(149 15.288 20.946)"/>
+      <polygon fill="#646664" points="59.788 45.446 59.788 50.446 52.788 50.446" transform="rotate(149 56.288 47.946)"/>
+      <polygon fill="#646664" points="87.788 1.446 87.788 6.446 80.788 6.446" transform="rotate(149 84.288 3.946)"/>
+      <polygon fill="#646664" points="23.045 46.517 23.045 51.517 16.045 51.517" transform="rotate(149 19.545 49.017)"/>
+      <polygon fill="#646664" points="32 18.875 35.6 22 38 17 33.2 17"/>
+      <polygon fill="#646664" points="65 45.875 68.6 49 71 44 66.2 44"/>
+      <polygon fill="#646664" points="85 25.875 88.6 29 91 24 86.2 24"/>
+      <polygon fill="#646664" points="28.257 46.946 31.857 50.071 34.257 45.071 29.457 45.071"/>
+      <rect width="2" height="1" x="17.083" y="10.533" fill="#646664" transform="rotate(-41 18.083 11.033)"/>
+      <rect width="2" height="1" x="58.083" y="38.533" fill="#646664" transform="rotate(-41 59.083 39.033)"/>
+      <rect width="2" height="1" x="78.083" y="18.533" fill="#646664" transform="rotate(-41 79.083 19.033)"/>
+      <rect width="2" height="1" x="5.34" y="39.605" fill="#646664" transform="rotate(-41 6.34 40.105)"/>
+      <polygon fill="#646664" points="39.743 6.743 39.743 11.743 32.743 11.743" transform="scale(1 -1) rotate(45 58.556 0)"/>
+      <polygon fill="#646664" points="87.743 34.743 87.743 39.743 80.743 39.743" transform="scale(1 -1) rotate(45 174.154 0)"/>
+      <polygon fill="#646664" points="92.743 13.743 92.743 18.743 85.743 18.743" transform="scale(1 -1) rotate(45 128.456 0)"/>
+      <polygon fill="#646664" points="20 34.814 20 39.814 13 39.814" transform="scale(1 -1) rotate(45 106.584 0)"/>
+      <polygon fill="#646664" points="17.889 17.264 21.489 20.389 23.889 15.389 19.089 15.389" transform="scale(1 -1) rotate(45 64.077 0)"/>
+      <polygon fill="#646664" points="58.889 12.264 62.489 15.389 64.889 10.389 60.089 10.389" transform="scale(1 -1) rotate(45 93.006 0)"/>
+      <polygon fill="#646664" points="78.889 24.264 82.489 27.389 84.889 22.389 80.089 22.389" transform="scale(1 -1) rotate(45 141.977 0)"/>
+      <polygon fill="#646664" points="6.146 45.336 9.746 48.461 12.146 43.461 7.346 43.461" transform="scale(1 -1) rotate(45 120.105 0)"/>
+      <rect width="2" height="1" x="33.061" y="7.561" fill="#646664" transform="scale(1 -1) rotate(45 53.52 0)"/>
+      <rect width="2" height="1" x="66.061" y="35.561" fill="#646664" transform="scale(1 -1) rotate(45 154.119 0)"/>
+      <rect width="2" height="1" x="86.061" y="15.561" fill="#646664" transform="scale(1 -1) rotate(45 125.835 0)"/>
+      <rect width="2" height="1" x="13.318" y="36.632" fill="#646664" transform="scale(1 -1) rotate(45 103.963 0)"/>
+      <g transform="scale(1 -1) rotate(45 186.757 0)">
+        <use fill="#646664" xlink:href="#space-celestials-b"/>
+        <rect width="2" height="1" x="59.404" y="51.837" stroke="#979797"/>
+      </g>
+      <polygon fill="#646664" points="55.532 229.19 55.532 238.19 44.532 238.19" transform="rotate(149 50.032 233.69)"/>
+      <polygon fill="#646664" points="86.586 214.341 86.586 223.341 75.586 223.341" transform="rotate(35 81.086 218.84)"/>
+      <polygon fill="#646664" points="66 247 72 252 76 244 68 244"/>
+      <polygon fill="#646664" points="92 239 98 244 102 236 94 236"/>
+      <polygon fill="#646664" points="64 231 70 236 74 228 66 228"/>
+      <polygon fill="#646664" points="80.848 243.781 85.048 247.531 87.848 241.531 82.248 241.531" transform="rotate(-60 84.348 244.531)"/>
+      <rect width="3" height="2" x="52.288" y="217.739" fill="#646664" transform="rotate(-41 53.788 218.739)"/>
+      <rect width="3" height="2" x="90.288" y="229.739" fill="#646664" transform="rotate(-41 91.788 230.739)"/>
+      <rect width="3" height="2" x="54.288" y="243.739" fill="#646664" transform="rotate(-41 55.788 244.739)"/>
+      <rect width="3" height="2" x="76.302" y="214.643" fill="#646664" transform="rotate(32 77.802 215.643)"/>
+      <rect width="3" height="2" x="85.302" y="252.643" fill="#646664" transform="rotate(32 86.802 253.643)"/>
+      <polygon fill="#646664" points="45.571 225.571 45.571 234.571 34.571 234.571" transform="scale(1 -1) rotate(45 595.512 0)"/>
+      <polygon fill="#646664" points="76.571 210.571 76.571 219.571 65.571 219.571" transform="scale(1 -1) rotate(45 590.299 0)"/>
+      <polygon fill="#646664" points="56.364 243.364 62.364 248.364 66.364 240.364 58.364 240.364" transform="scale(1 -1) rotate(45 651.31 0)"/>
+      <polygon fill="#646664" points="82.364 235.364 88.364 240.364 92.364 232.364 84.364 232.364" transform="scale(1 -1) rotate(45 657.997 0)"/>
+      <polygon fill="#646664" points="54.364 227.364 60.364 232.364 64.364 224.364 56.364 224.364" transform="scale(1 -1) rotate(45 610.683 0)"/>
+      <polygon fill="#646664" points="71.096 240.846 75.296 244.596 78.096 238.596 72.496 238.596" transform="scale(1 -1) rotate(45 657.861 0)"/>
+      <rect width="3" height="2" x="42.268" y="214.768" fill="#646664" transform="scale(1 -1) rotate(45 564.677 0)"/>
+      <rect width="3" height="2" x="80.268" y="226.768" fill="#646664" transform="scale(1 -1) rotate(45 631.648 0)"/>
+      <rect width="3" height="2" x="44.268" y="240.768" fill="#646664" transform="scale(1 -1) rotate(45 629.447 0)"/>
+      <rect width="3" height="2" x="66.268" y="211.768" fill="#646664" transform="scale(1 -1) rotate(45 581.435 0)"/>
+      <polygon fill="#646664" points="50.788 216.446 50.788 221.446 43.788 221.446" transform="rotate(149 47.288 218.946)"/>
+      <polygon fill="#646664" points="75.788 243.446 75.788 248.446 68.788 248.446" transform="rotate(149 72.288 245.946)"/>
+      <polygon fill="#646664" points="95.788 223.446 95.788 228.446 88.788 228.446" transform="rotate(149 92.288 225.946)"/>
+      <polygon fill="#646664" points="38.788 244.446 38.788 249.446 31.788 249.446" transform="rotate(149 35.288 246.946)"/>
+      <polygon fill="#646664" points="56 216.875 59.6 220 62 215 57.2 215"/>
+      <polygon fill="#646664" points="81 243.875 84.6 247 87 242 82.2 242"/>
+      <polygon fill="#646664" points="101 223.875 104.6 227 107 222 102.2 222"/>
+      <polygon fill="#646664" points="44 244.875 47.6 248 50 243 45.2 243"/>
+      <rect width="2" height="1" x="49.083" y="208.533" fill="#646664" transform="rotate(-41 50.083 209.033)"/>
+      <rect width="2" height="1" x="74.083" y="236.533" fill="#646664" transform="rotate(-41 75.083 237.033)"/>
+      <rect width="2" height="1" x="94.083" y="216.533" fill="#646664" transform="rotate(-41 95.083 217.033)"/>
+      <rect width="2" height="1" x="37.083" y="237.533" fill="#646664" transform="rotate(-41 38.083 238.033)"/>
+      <polygon fill="#646664" points="63.743 204.743 63.743 209.743 56.743 209.743" transform="scale(1 -1) rotate(45 560.57 0)"/>
+      <polygon fill="#646664" points="88.743 231.743 88.743 236.743 81.743 236.743" transform="scale(1 -1) rotate(45 650.754 0)"/>
+      <polygon fill="#646664" points="108.743 211.743 108.743 216.743 101.743 216.743" transform="scale(1 -1) rotate(45 622.47 0)"/>
+      <polygon fill="#646664" points="51.743 232.743 51.743 237.743 44.743 237.743" transform="scale(1 -1) rotate(45 616.169 0)"/>
+      <polygon fill="#646664" points="49.889 215.264 53.489 218.389 55.889 213.389 51.089 213.389" transform="scale(1 -1) rotate(45 574.091 0)"/>
+      <polygon fill="#646664" points="74.889 242.264 78.489 245.389 80.889 240.389 76.089 240.389" transform="scale(1 -1) rotate(45 664.275 0)"/>
+      <polygon fill="#646664" points="94.889 222.264 98.489 225.389 100.889 220.389 96.089 220.389" transform="scale(1 -1) rotate(45 635.99 0)"/>
+      <polygon fill="#646664" points="37.889 243.264 41.489 246.389 43.889 241.389 39.089 241.389" transform="scale(1 -1) rotate(45 629.69 0)"/>
+      <rect width="2" height="1" x="57.061" y="205.561" fill="#646664" transform="scale(1 -1) rotate(45 555.535 0)"/>
+      <rect width="2" height="1" x="82.061" y="233.561" fill="#646664" transform="scale(1 -1) rotate(45 648.133 0)"/>
+      <rect width="2" height="1" x="102.061" y="213.561" fill="#646664" transform="scale(1 -1) rotate(45 619.849 0)"/>
+      <rect width="2" height="1" x="45.061" y="234.561" fill="#646664" transform="scale(1 -1) rotate(45 613.547 0)"/>
+      <g transform="scale(1 -1) rotate(45 682.175 0)">
+        <use fill="#646664" xlink:href="#space-celestials-c"/>
+        <rect width="2" height="1" x="75.768" y="250.268" stroke="#979797"/>
+      </g>
+    </g>
+  </g>
+</svg>
